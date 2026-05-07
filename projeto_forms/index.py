@@ -87,5 +87,4 @@ tabela.pack(fill="both", expand=True, pady=20)
 
 
 
-
 janela.mainloop()
