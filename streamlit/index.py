@@ -59,7 +59,7 @@ elif pagina == "Gráfico":
     st.title("Página de Gráfico")
     valores = []
     for i in range(5):
-        valores.append(random.randint(1, 100))
+        valores.append(random.randint(1, 101))
     st.bar_chart(valores)
 
 
